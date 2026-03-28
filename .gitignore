@@ -1,0 +1,6 @@
+build/
+.cache/
+.claude/
+.vscode/
+CLAUDE.md
+compile_commands.json
